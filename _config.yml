@@ -1,14 +1,26 @@
-layout_spectrum: 0.4938122893217951
-typography_spectrum: 0.5211981381289661
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.27193406596779823
-  lightness: 0.9850400621071458
   saturation: 0.1860503270290792
-  rhythmicContrast: 0.4848648018669337
+  brandStrength: 0.8458781
+  lightness: 0.9850400621071458
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#0B0B0B'
+    - '#F8FEFC'
+    - '#BC9F9B'
+    - '#BFD7D4'
+    - '#016965'
+  rhythmicContrast: 0.4848648018669337
+typography_spectrum: 0.2365591
+layout_spectrum: 0.2849462
 name: fustrated fly fisherman
